@@ -2,7 +2,6 @@
 layout: default
 title: Neural Networks
 nav_order: 6
-parent: Algorithms 
 ---
 # Neural Networks
 
