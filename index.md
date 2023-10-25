@@ -20,9 +20,8 @@ At the end of this workshop, you will be able to:
 
 ## Schedule
 
-| 0:00 - 0:05 | Welcome and using Zoom|
-| 0:05 - 0:15 | About Machine Learning|  
-| 0:15 - 0:30 | About Neural Networks |
+| 0:00 - 0:05 | Welcome and using Zoom| 
+| 0:05 - 0:30 | About Neural Networks |
 | 0:30 - 1:20 | Hands-on with Jupyter Notebook|   
 | 1:20 - 1:30 | Wrap-up and Discussion|
 | 1:30 - 2:00 | Optional Q&A|
